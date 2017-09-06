@@ -19,7 +19,8 @@
                  [org.clojure/tools.namespace "0.2.11"]
                  [http-kit "2.2.0"]
                  [rum "0.10.8"]
-                 [lambdaisland/garden-watcher "0.3.1"]]
+                 [lambdaisland/garden-watcher "0.3.1"]
+                 [quil "2.6.0"]]
 
   :plugins [[lein-cljsbuild "1.1.7"]
             [lein-environ "1.1.0"]]
