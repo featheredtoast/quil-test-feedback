@@ -22,7 +22,7 @@
   ; Set circle color.
   (q/fill 0 255 255)
   ; Calculate x and y coordinates of the circle.
-  (q/ellipse 25 25 50 50))
+  (q/ellipse 250 250 50 50))
 
 (defn get-sketch []
   (q/sketch
